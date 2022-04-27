@@ -3,7 +3,7 @@
 namespace   Oneinit;
 
 /**
- * 校验工具类，如验证ip、手机、邮箱等
+ * 校验工具类，如验证ip、手机、邮箱等等
  * Class VerifyTools
  */
 
